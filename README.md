@@ -3,6 +3,7 @@
 > **Watch Proxa Echo in action**
 
 [![Demo Video]](https://youtu.be/l-aC46OeKzs)
+https://youtu.be/l-aC46OeKzs
 
 # Proxa Echo
 
