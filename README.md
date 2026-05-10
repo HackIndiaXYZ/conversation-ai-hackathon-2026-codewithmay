@@ -33,7 +33,8 @@ A pharmaceutical sales rep can practice detailing medications to clinically accu
 
 > **Watch Proxa Echo in action**
 
-[![Demo Video]](https://your-demo-video-url-here)
+[![Demo Video]] https://youtu.be/l-aC46OeKzs
+)
 
 <!-- TODO: Replace the link above with your final demo video URL before submission -->
 
